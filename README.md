@@ -109,6 +109,8 @@
 ![Nuclei](https://img.shields.io/badge/Nuclei-000000?style=flat-square&logo=go&logoColor=00ff9d)
 ![XSStrike](https://img.shields.io/badge/XSStrike-000000?style=flat-square&logo=python&logoColor=9d00ff)
 ![Dalfox](https://img.shields.io/badge/Dalfox-000000?style=flat-square&logo=go&logoColor=00d4ff)
+
+
 ![Commix](https://img.shields.io/badge/Commix-000000?style=flat-square&logo=python&logoColor=9d00ff)
 ![NoSQLMap](https://img.shields.io/badge/NoSQLMap-000000?style=flat-square&logo=python&logoColor=00ff9d)
 ![Nikto](https://img.shields.io/badge/Nikto-000000?style=flat-square&logo=perl&logoColor=ff6600)
