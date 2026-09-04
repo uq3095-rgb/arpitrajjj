@@ -292,6 +292,7 @@
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=00ff9d)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=gitlab&logoColor=ff6600)
+
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00d4ff)
 ![Neovim](https://img.shields.io/badge/Neovim-000000?style=flat-square&logo=neovim&logoColor=00ff9d)
 ![tmux](https://img.shields.io/badge/tmux-000000?style=flat-square&logo=tmux&logoColor=00d4ff)
